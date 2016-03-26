@@ -1,0 +1,1 @@
+.foo{display:-webkit-flex;display:-ms-flexbox;display:flex}@media (min-width:768px){.foo{width:100%}}
